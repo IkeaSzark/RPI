@@ -1,2 +1,2 @@
 # Bachelor's Degree Project
-Repository for visualisation of Fuzzy Logic in Python
+Repository for visualisation of Fuzzy Logic in Python.
